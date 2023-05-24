@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MoveDirection : MonoBehaviour
 {
-    public float speed = 3f;
+    public float speed = 1f;
     public float smoothTime = 0.5f;
     public Vector3 target = new Vector3(10, 4, 20);
     Vector3 currentVelocity;
