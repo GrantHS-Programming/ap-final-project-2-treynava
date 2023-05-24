@@ -17,4 +17,10 @@ public class Cutscene : MonoBehaviour
         cutsceneCam.SetActive(true);
         thePlayer.SetActive(false);
     }
+
+    void OnTriggerExit(Collider Other)
+    {
+        thePlayer.SetActive(true);
+        cutsceneCam.SetActive(false);
+    }
 }

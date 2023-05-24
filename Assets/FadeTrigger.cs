@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -13,22 +13,23 @@ public class FadeTrigger : MonoBehaviour
     public AnimationCurve Curve = new AnimationCurve(new Keyframe(0, 1),
         new Keyframe(0.5f, 0.5f, -1.5f, -1.5f), new Keyframe(1, 0));
     public bool startFadedOut = false;
+    
     void OnTriggerEnter(Collider other)
     {
-        texture = new Texture2D(1, 1);
+            texture = new Texture2D(1, 1);
 
-        if (alpha >= 1f) // Fully faded out
-        {
-            alpha = 1f;
-            time = 0f;
-            direction = 1;
-        }
-        else // Fully faded in
-        {
-            alpha = 0f;
-            time = 1f;
-            direction = -1;
-        }
+            if (alpha >= 1f) // Fully faded out
+            {
+                alpha = 1f;
+                time = 0f;
+                direction = 1;
+            }
+            else // Fully faded in
+            {
+                alpha = 0f;
+                time = 1f;
+                direction = -1;
+            }
     }
 
     public void OnGUI()
