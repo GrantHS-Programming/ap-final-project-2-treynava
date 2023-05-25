@@ -32,6 +32,22 @@ public class FadeTrigger : MonoBehaviour
             }
     }
 
+    void OnTriggerExit(Collider other)
+    {
+        if (alpha >= 1f)
+        {
+            alpha = 1f;
+            time = 0f;
+            direction = 1;
+        }
+        else
+        {
+            alpha = 01f;
+            time = 0f;
+            direction = 1;
+        }
+    }
+
     public void OnGUI()
     {
         if (alpha > 0f) GUI.DrawTexture(new Rect(0, 0, Screen.width, Screen.height), texture);
