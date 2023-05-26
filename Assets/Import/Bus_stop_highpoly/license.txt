@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bus stop highpoly
+* source:	https://sketchfab.com/3d-models/bus-stop-highpoly-c3c429e5938c4b62b25cf38570466ef3
+* author:	myhalchuk2000 (https://sketchfab.com/myhalchuk2000)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bus stop highpoly" (https://sketchfab.com/3d-models/bus-stop-highpoly-c3c429e5938c4b62b25cf38570466ef3) by myhalchuk2000 (https://sketchfab.com/myhalchuk2000) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
