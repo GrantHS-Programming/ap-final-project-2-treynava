@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fox Mk1 (Volkswagen Golf Mk1)
+* source:	https://sketchfab.com/3d-models/fox-mk1-volkswagen-golf-mk1-8dc118c3e2ce40a2b7d550b0ae404949
+* author:	3DCars (https://sketchfab.com/3DCarss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fox Mk1 (Volkswagen Golf Mk1)" (https://sketchfab.com/3d-models/fox-mk1-volkswagen-golf-mk1-8dc118c3e2ce40a2b7d550b0ae404949) by 3DCars (https://sketchfab.com/3DCarss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

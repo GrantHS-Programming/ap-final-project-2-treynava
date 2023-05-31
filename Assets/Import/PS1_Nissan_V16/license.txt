@@ -1,0 +1,11 @@
+Model Information:
+* title:	PS1 Nissan V16
+* source:	https://sketchfab.com/3d-models/ps1-nissan-v16-094472e6e93d49348ce6bdfb5590c123
+* author:	Namahoi (https://sketchfab.com/Namahoi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PS1 Nissan V16" (https://sketchfab.com/3d-models/ps1-nissan-v16-094472e6e93d49348ce6bdfb5590c123) by Namahoi (https://sketchfab.com/Namahoi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
